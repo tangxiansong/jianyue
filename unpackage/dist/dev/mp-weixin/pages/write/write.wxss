@@ -1,0 +1,48 @@
+
+.img {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.hr {
+	border: 1px dashed #eeeeee;
+}
+.head {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 8px;
+	width: 100%;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eeeeee;
+	height: 30px;
+}
+.look {
+	position: absolute;
+	margin-right: 30px;
+	right: 50px;
+}
+.new {
+	position: absolute;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	color: #e2231a;
+	right: 20px;
+}
+.title {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom-style: dashed;
+	border-bottom-color: #007aff;
+}
+.title1 {
+	margin-bottom: 15px;
+}
+.content1 {
+	height: 200px;
+}
+
